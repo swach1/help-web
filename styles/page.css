@@ -1,0 +1,29 @@
+.page-title {
+  padding-top: 2rem;
+  position: 2rem;
+  color: #000;
+}
+
+.page-heading {
+  padding-top: 1.5rem;
+}
+
+.bullet-list {
+  padding-left: 5% !important;
+}
+
+.bullet-list-item {
+  list-style-type: circle !important;
+  padding-bottom: 0.5rem !important;
+}
+
+.bullet-indent {
+  list-style-type: none !important;
+  text-indent: 2%;
+  padding-top: 0.4rem;
+}
+
+.list-link {
+  padding-top: 1rem;
+  font-weight: 700;
+}
