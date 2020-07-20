@@ -68,3 +68,11 @@
   color: #fff;
   opacity: 0.8;
 }
+
+.footer-button {
+  margin-right: 20px;
+}
+
+.footer-button:last-of-type {
+  margin: 0;
+}
